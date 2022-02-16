@@ -1,0 +1,97 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.trasparenza{
+  width: 900px;
+  height: 550px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding-top: 20px;
+}
+
+header{
+  padding-top: 35px;
+}
+
+.logo{
+  display: block;
+  width: 20%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.logo-text{
+  font-size: 30px;
+  font-family: 'Didact Gothic', sans-serif;
+  text-align: center;
+  color: rgba(0, 221, 0, 1);
+  font-weight: bold;
+}
+
+nav{
+  padding-top: 10px;
+}
+
+.container-button{
+  width: 800px;
+  height: 30px;
+  text-align: center;
+  margin: 0px auto;
+  background-color: rgba(0, 221, 0, 1);
+  padding-top: 7px;
+}
+
+.bottone{
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+}
+
+main{
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.monopattini{
+  widht:60%;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.title-mono{
+  color: white;
+  font-size: 22px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.arrow{
+  color: white;
+}
+
+.street{
+  color: white;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.full-charge{
+  width: 40%;
+  height: 30px;
+  background-color: green;
+  border-radius: 5px;
+}
+
+.half-charge{
+  width: 30%;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.unload{
+  width: 10%;
+  height: 30px;
+  background-color: red;
+  border-radius: 5px;
+}
